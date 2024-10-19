@@ -24,7 +24,7 @@ Esse projeto foi desenvolvido através do editor de códigos VSCode, e com as te
 
 Para instalação do VSCode visite o site https://code.visualstudio.com/
 
-## 🔮 Implementações futuras
+## Implementações futuras
 
 1. Armazenar as informações das tarefas registradas para ficarem gravadas no programa e não desaparecerem quando o programa for encerrado.
 
